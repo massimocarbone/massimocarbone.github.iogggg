@@ -1,0 +1,63 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Aug 22, 2016, 11:21:18 PM
+    Author     : Massimo
+*/
+
+body {
+        
+
+	height: 100%;
+	margin: 0 auto;
+        
+	text-align: center;
+	width: 100%;
+}
+
+h1 {
+     
+ font-family: 'Lobster', cursive;
+	font-size: 32px;
+        max-width: 50em;
+  color: rgb(121,149,117);
+}
+
+h2 {
+    font-family: 'Oxygen', sans-serif;
+	font-size: 56px;
+       
+}
+
+
+.hero {
+	padding: 250px 0;
+	margin: 30px;
+      font-family: 'Oxygen', sans-serif;
+
+  background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg");
+  background-size: cover;
+  color: #ffffff;
+}
+
+
+p {
+     font-family: 'Oxygen', sans-serif;
+  font-size: 2rem;
+}
+
+.hero a {
+    font-family: 'Oxygen', sans-serif;
+	color: #00FFAA;
+	font-size: 1.25em;
+	text-decoration: none;
+}
+
+#footer {
+    font-family: 'Oxygen', sans-serif;
+  font-size: 0.75rem;
+}
+
